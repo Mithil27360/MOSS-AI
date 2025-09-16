@@ -94,6 +94,29 @@ DSA : https://www.youtube.com/watch?v=pkYVOmU3MgA&ab_channel=freeCodeCamp.org
 
 Data loading : https://www.youtube.com/watch?v=T23Bs75F7ZQ&ab_channel=freeCodeCamp.org
 
+The best YouTube channels to learn AI from scratch
+
+1] Andrej Karpathy – Deep learning, LLMs, intro to neural nets
+ https://lnkd.in/evZk-rNk
+
+2] 3Blue1Brown – Visual math that makes complex ideas intuitive
+ https://lnkd.in/e5n9uzwn
+
+3] Stanford Online (Andrew Ng – CS229 ML Course)
+ https://lnkd.in/eXsE6CiG
+
+4] Machine Learning Street Talk – Research deep dives & expert talks
+ https://lnkd.in/eX2-mh39
+
+5] StatQuest (Joshua Starmer) – ML + statistics made simple
+ https://lnkd.in/ehiMxwUE
+
+6] Serrano Academy (Luis Serrano) – Clear ML & AI lessons
+ https://lnkd.in/eJsnz4NY
+
+7] Jeremy Howard – Practical deep learning tutorials
+ https://lnkd.in/ejnKrXYv
+
 ---
 
 ## Contact
