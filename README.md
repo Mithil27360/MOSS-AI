@@ -63,10 +63,15 @@ That’s the roadmap I’d take – no fluff, just results.
 ---
 ## 📚 Tutorials & Guides  
 Machine Learning Book : https://drive.google.com/file/d/1aNOunm89etXOSlpIqi_mENGtWT6pRJjp/view?usp=sharing
+
 400+ 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀: https://lnkd.in/gv9yvfdd
+
 𝗣𝗿𝗲𝗺𝗶𝘂𝗺 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗜𝗻𝘁𝗲𝗿𝘃𝗶𝗲𝘄 𝗥𝗲𝘀𝗼𝘂𝗿𝗰𝗲𝘀 : https://lnkd.in/gPrWQ8is
+
 𝗣𝘆𝘁𝗵𝗼𝗻 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗟𝗶𝗯𝗿𝗮𝗿𝘆: https://lnkd.in/gHSDtsmA
+
 45+ 𝗠𝗮𝘁𝗵𝗲𝗺𝗮𝘁𝗶𝗰𝘀 𝗕𝗼𝗼𝗸𝘀 𝗘𝘃𝗲𝗿𝘆 𝗗𝗮𝘁𝗮 𝗦𝗰𝗶𝗲𝗻𝘁𝗶𝘀𝘁 𝗡𝗲𝗲𝗱𝘀: https://lnkd.in/ghBXQfPc
+
 
 
 ## 🎥 Video Lectures
